@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 64,
+    "description": [
+      {
+        "text": "MCS Nations Pack",
+        "color": "dark_blue"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "5.1.0",
+        "color": "blue"
+      }
+    ]
+  }
+}
