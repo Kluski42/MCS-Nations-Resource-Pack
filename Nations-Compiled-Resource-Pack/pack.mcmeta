@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 64,
+    "pack_format": 69,
     "description": [
       {
         "text": "MCS Nations Pack",
@@ -10,7 +10,7 @@
         "text": "\n"
       },
       {
-        "text": "5.1.2",
+        "text": "5.2.0",
         "color": "blue"
       }
     ]
