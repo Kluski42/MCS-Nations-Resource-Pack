@@ -4,4 +4,4 @@ A combination of multiple resource packs for the MCS Nations server. Contains:
 - PufferGallery (https://github.com/Dexterity10/pufferGallery)
 - MCS Puffer Praise Pack
 
-Version 5.2.0
+Version 5.2.1
