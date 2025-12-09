@@ -4,13 +4,6 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       {
-        "when": "variant_christmass_puffer",
-        "model": {
-          "type": "minecraft:model",
-          "model": "mcs_ppp:puffer/christmass_puffer"
-        }
-      },
-      {
         "when": "variant_creepuffer",
         "model": {
           "type": "minecraft:model",
@@ -25,6 +18,13 @@
         }
       },
       {
+        "when": "variant_puffer_angel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_angel"
+        }
+      },
+      {
         "when": "variant_puffer_boomer",
         "model": {
           "type": "minecraft:model",
@@ -36,13 +36,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "mcs_ppp:puffer/puffer_bottle"
-        }
-      },
-      {
-        "when": "variant_puffer_bucket",
-        "model": {
-          "type": "minecraft:model",
-          "model": "mcs_ppp:puffer/puffer_bucket"
         }
       },
       {
@@ -74,6 +67,13 @@
         }
       },
       {
+        "when": "variant_puffer_christmas",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_christmas"
+        }
+      },
+      {
         "when": "variant_puffer_clown",
         "model": {
           "type": "minecraft:model",
@@ -92,6 +92,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "mcs_ppp:puffer/puffer_communism"
+        }
+      },
+      {
+        "when": "variant_puffer_cri",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_cri"
         }
       },
       {
@@ -127,6 +134,20 @@
         "model": {
           "type": "minecraft:model",
           "model": "mcs_ppp:puffer/puffer_distressed"
+        }
+      },
+      {
+        "when": "variant_puffer_egg",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_egg"
+        }
+      },
+      {
+        "when": "variant_puffer_eyebrows",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_eyebrows"
         }
       },
       {
@@ -253,13 +274,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "mcs_ppp:puffer/puffer_pensive"
-        }
-      },
-      {
-        "when": "variant_puffer",
-        "model": {
-          "type": "minecraft:model",
-          "model": "mcs_ppp:puffer/puffer"
         }
       },
       {
@@ -421,6 +435,13 @@
         "model": {
           "type": "minecraft:model",
           "model": "mcs_ppp:puffer/puffer_x"
+        }
+      },
+      {
+        "when": "variant_puffer_zombie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "mcs_ppp:puffer/puffer_zombie"
         }
       },
       {
